@@ -1,0 +1,51 @@
+
+
+body{
+    font-family: 'Lato', 'Times';
+}
+
+
+.topnav{
+    background-color:#2196f3!important;
+    padding-left: 0px;
+    color:#FFF;
+}
+.topnav .active{
+    background-color: #1d7dca;
+}
+
+
+
+
+
+.nav-pills > a:hover{
+    background-color: #FFF;
+    border-radius: 0px;
+}
+
+
+
+.nav-pills > li.active > a:hover{
+    background-color: #FFFFFF;
+    color:#000!important;
+}
+
+.nav-pills > li > a{
+    background-color: #FFFFFF;
+    color:#000!important;
+}
+
+.nav-pills > li > a:hover{
+    background-color: #2196f3;
+    color:#fff!important;
+}
+
+.nav-pills > li.active > a {
+    background-color: #FFFFFF;
+    border-left: 6px solid #2196f3;
+    color:#000!important;
+}
+
+.navbar-collapse{
+    margin-left: 0px;
+}

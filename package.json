@@ -1,0 +1,38 @@
+{
+  "name": "byrid",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "combine-reducers": "^1.0.0",
+    "immutable": "^3.8.1",
+    "material-ui": "0.17.0",
+    "moment": "^2.18.1",
+    "prop-types": "^15.5.8",
+    "react": "15.3.2",
+    "react-bootstrap-select": "^0.14.0",
+    "react-countdown-clock": "^1.1.0",
+    "react-dom": "15.3.2",
+    "react-modal": "^1.7.7",
+    "react-popup": "^0.8.0",
+    "react-redux": "^4.4.5",
+    "react-router": "2.6.1",
+    "react-router-dom": "^4.1.1",
+    "react-select": "^1.0.0-rc.5",
+    "react-thunk": "^1.0.0",
+    "react.timer": "^2.1.0",
+    "redux": "^3.6.0",
+    "redux-logger": "^3.0.1",
+    "redux-promise-middleware": "^4.2.0",
+    "redux-thunk": "^2.2.0"
+  },
+  "devDependencies": {
+    "react-scripts": "0.9.5",
+    "redux-devtools": "^3.3.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
