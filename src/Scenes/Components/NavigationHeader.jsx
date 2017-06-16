@@ -3,7 +3,7 @@ import React, {Component} from "react";
 export default class Navigationheader extends Component{
 
     render(){
-        let brand_name = "Byrd";
+        let brand_name = "Web application";
         return (
             <header id="header" className="app-header navbar">
                 <div className="collapse pos-rlt navbar-collapse box-shadow bg-white-only topnav">
